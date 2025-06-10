@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📁 One Time File Sharing System
 
 This project allows users to upload and share files **securely** with **one-time access** using a **QR code** and a **unique link**. Once the file is accessed, it **self-destructs** (becomes unavailable). It is designed with a **Streamlit frontend**, a **Flask backend**, and uses **MariaDB** as the database.
@@ -24,3 +25,6 @@ This project allows users to upload and share files **securely** with **one-time
 
 ## 📂 Project Structure
 
+=======
+# One-Time-File-Sharing
+>>>>>>> f32e0b78cb189c7651edb1232a3b25115e8df0fa
